@@ -13,7 +13,7 @@ Figjam - User journey: https://www.figma.com/board/dZw3K5yHqGbmvIkcl0HNfi/User-J
 
 Figma File - Wireframe mockups and annotations: https://www.figma.com/design/95wLG9vqjKyiABkgEsdRMq/Wireframes?node-id=0-1&t=Qo6UgJxUhTFQXV7v-1
 
-Loom Video: 
+Loom Video: https://www.loom.com/share/fcc5235e3082454f9b72e59ecde40981
 
 # What I did
 
